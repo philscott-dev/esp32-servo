@@ -1,0 +1,22 @@
+{
+  "name": "esp32-servo",
+  "version": "1.0.0",
+  "description": "https://github.com/espressif/vscode-esp-idf-extension/#quick-installation-guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philscott-dev/esp32-servo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philscott-dev/esp32-servo/issues"
+  },
+  "homepage": "https://github.com/philscott-dev/esp32-servo#readme",
+  "dependencies": {
+    "gpio": "^0.2.10"
+  }
+}
